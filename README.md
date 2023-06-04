@@ -1,4 +1,4 @@
-# Khushi-Malhotra
+![logo](https://github.com/khushi505/Khushi-Malhotra/blob/main/Khushi%20Malhotra.mp4)
 
 <h1 align="center">Hi 👋, I'm Khushi Malhotra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
