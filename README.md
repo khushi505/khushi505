@@ -1,7 +1,4 @@
-<video height="400" controls>
-  <source src="https://www.canva.com/design/DAFk2eqO1HY/ZeNeQTtYhSHmn9sV0grBLg/watch?utm_content=DAFk2eqO1HY&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
 
 <h1 align="center">Hi 👋, I'm Khushi Malhotra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
