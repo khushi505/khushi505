@@ -1,4 +1,4 @@
-
+![logo height="400"](https://github.com/khushi505/Khushi-Malhotra/blob/main/Github%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Khushi Malhotra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
