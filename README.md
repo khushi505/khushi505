@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Khushi Malhotra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="![techi](https://github.com/khushi505/Khushi-Malhotra/assets/121372231/4348b56c-dd87-45a6-97ca-6a5590cd8779)
-">
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47gosew3bmpryi8e186iseldxg463hggc445yg2bvj&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 - 👨‍💻 All of my projects are available at [https://github.com/khushi505](https://github.com/khushi505)
 
