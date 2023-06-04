@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Khushi Malhotra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="C:\Users\malho\Downloads\tech crop.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 - 👨‍💻 All of my projects are available at [https://github.com/khushi505](https://github.com/khushi505)
 
