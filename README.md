@@ -38,15 +38,21 @@
   <table width="100%">
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=khushi505&show_icons=true&theme=dark&count_private=true&hide=prs,issues" alt="Khushi Malhotra's GitHub stats" width="80%" />
+        <div align="center" style="border: 1px solid white; padding: 10px; height: 200px;">
+          <img src="https://github-readme-stats.vercel.app/api?username=khushi505&show_icons=true&theme=dark&count_private=true&hide=prs,issues" alt="Khushi Malhotra's GitHub stats" width="100%" />
+        </div>
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi505&theme=dark" alt="Khushi Malhotra's GitHub Streak" width="80%" />
+        <div align="center" style="border: 1px solid white; padding: 10px; height: 200px;">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi505&theme=dark" alt="Khushi Malhotra's GitHub Streak" width="100%" />
+        </div>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi505&layout=compact&theme=dark" alt="Top Languages" width="60%" />
+        <div align="center" style="border: 1px solid white; padding: 10px; height: 180px;">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi505&layout=compact&theme=dark" alt="Top Languages" width="50%" />
+        </div>
       </td>
     </tr>
   </table>
