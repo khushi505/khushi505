@@ -51,7 +51,7 @@
     <tr>
       <td colspan="2" align="center">
         <div align="center" style="border: 1px solid white; padding: 10px; height: 180px;">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi505&layout=compact&theme=dark" alt="Top Languages" width="50%" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi505&exclude_repo=wave.io&layout=compact&theme=dark" alt="Top Languages" width="50%" />
         </div>
       </td>
     </tr>
