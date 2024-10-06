@@ -1,7 +1,7 @@
 ![logo height="400"](https://github.com/khushi505/Khushi-Malhotra/blob/main/Github%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Khushi Malhotra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A self taught Web Developer </h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 - 👨‍💻 All of my projects are available at [https://github.com/khushi505](https://github.com/khushi505)
