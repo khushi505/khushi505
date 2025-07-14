@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=7FFFDA&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Khushi+Malhotra;Full-Stack+Developer+%7C+AI+Explorer+%7C+Community+Builder;Turning+Ideas+into+Impact+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/khushi505/khushi505/main/Khushi.png" alt="GitHub Banner" style="width:100%;"/>
 </p>
 
 ---
