@@ -1,59 +1,120 @@
-<h1 align="center">Hi 👋, I'm Khushi Malhotra</h1>
-<h3 align="center">A self-taught Web Developer</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/khushi malhotra-615a15252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushi malhotra" height="30" width="40" /></a>
-<a href="https://instagram.com/__khushi50._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__khushi50._" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=7FFFDA&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Khushi+Malhotra;Full-Stack+Developer+%7C+AI+Explorer+%7C+Community+Builder;Turning+Ideas+into+Impact+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<h3>🏆 Check out my Holopin badges</h3>
+---
 
-[![An image of @khushi505's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khushi505)](https://holopin.io/@khushi505)
+<h2 align="center">About Me</h2>
+
+Full-Stack Developer | AI Enthusiast | Tech Explorer
+
+I'm Khushi Malhotra — a passionate developer who thrives on building impactful, scalable applications.
+
+- Skilled in architecting full-stack applications with modern web technologies
+- Strong foundation in Data Structures & Algorithms (C++), with consistent LeetCode practice
+- Currently working on large-scale projects involving system design and backend optimization
+- Participated and won multiple national-level and university-level hackathons including:
+  - 🥇 Mock Interview Platform (AI + WebGazer) – 9Hacks Winner
+  - 🥇 SafeClick – AI/ML Track Winner
+- Published an IEEE Research Paper:  
+  *“Predicting Sports Engagement Among Engineering Students Using Machine Learning”* — presented at ICICCT 2025
+- Contributed to open-source projects, served as a board member of Norman Lab, and mentored fellow developers
+
+Driven by the vision to use tech for real solutions, I'm constantly learning, building, and pushing boundaries.
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
-</p>
+---
 
-<h2 align="center">⚡ Current Stats ⚡</h2>
+<h2 align="center">My Tech Stack</h2>
 
-<div align="center">
-  <table width="100%">
+<p align="center">
+  <table align="center">
     <tr>
-      <td width="50%">
-        <div align="center" style="border: 1px solid white; padding: 10px; height: 200px;">
-          <img src="https://github-readme-stats.vercel.app/api?username=khushi505&show_icons=true&theme=dark&count_private=true&hide=prs,issues" alt="Khushi Malhotra's GitHub stats" width="100%" />
-        </div>
-      </td>
-      <td width="50%">
-        <div align="center" style="border: 1px solid white; padding: 10px; height: 200px;">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi505&theme=dark" alt="Khushi Malhotra's GitHub Streak" width="100%" />
-        </div>
-      </td>
+      <th align="center">Languages</th>
+      <th align="center">Libraries & Frameworks</th>
+      <th align="center">Databases</th>
     </tr>
     <tr>
-      <td colspan="2" align="center">
-        <div align="center" style="border: 1px solid white; padding: 10px; height: 180px;">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi505&exclude_repo=wave.io&layout=compact&theme=dark" alt="Top Languages" width="50%" />
-        </div>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" style="background-color:white; border-radius:5px"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />        
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" style="background-color:white; border-radius:5px"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
       </td>
     </tr>
   </table>
+
+  <br/>
+
+  <table align="center">
+    <tr>
+      <th align="center">Analytics Tools</th>
+      <th align="center">Tools & Platforms</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" style="background-color:white; border-radius:5px"/>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="background-color:white; border-radius:5px"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
+      </td>
+    </tr>
+  </table>
+</p>
+
+
+
+
+
+---
+
+<h2 align="center">Connect with Me</h2>
+
+<p align="center">
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/your-leetcode/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
+</p>
+
+---
+
+<h2 align="center">Check out my Holopin Badges</h2>
+
+[![An image of @khushi505's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khushi505)](https://holopin.io/@khushi505)
+
+---
+
+<h3 align="center">GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khushi505&show_icons=true&theme=dark&count_private=true&hide=prs,issues" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi505&theme=dark" width="47%" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi505&exclude_repo=wave.io&layout=compact&theme=dark&hide=Jupyter%20Notebook" width="47%" />
 </div>
+
+---
