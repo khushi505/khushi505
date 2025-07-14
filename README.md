@@ -108,7 +108,7 @@ Driven by the vision to use tech for real solutions, I'm constantly learning, bu
 
 ---
 
-<h3 align="center">GitHub Stats</h3>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khushi505&show_icons=true&theme=dark&count_private=true&hide=prs,issues" width="47%" />
